@@ -1,0 +1,14 @@
+{
+  "name": "cal",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsc && cd build && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
